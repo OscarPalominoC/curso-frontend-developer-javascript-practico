@@ -388,6 +388,14 @@ aside {
     width: 140px;
     height: 140px;
   }
+
+  /* Product Detail */ 
+
+  #productDetail {
+    width: 100%;
+    padding: 0;
+    left: 0;
+  }
 }
 
 @media (min-width: 641px) {
